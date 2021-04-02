@@ -3,7 +3,15 @@
   "version": "0.1.0",
   "description": "Next JS boilerplate built using Typescript",
   "private": true,
-  "keywords": ["react", "next", "nextjs", "typescript", "javascript", "styled-components", "materialui"],
+  "keywords": [
+    "react",
+    "next",
+    "nextjs",
+    "typescript",
+    "javascript",
+    "styled-components",
+    "materialui"
+  ],
   "author": "Renato Melo",
   "scripts": {
     "dev": "next dev",
@@ -17,6 +25,7 @@
     "axios": "^0.21.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "json-server": "^0.16.3",
     "next": "10.0.5",
     "next-images": "^1.7.0",
     "nextjs-progressbar": "^0.0.7",

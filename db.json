@@ -1,0 +1,11 @@
+{
+  "projects": [
+    { "id": 1, "title": "Geekabilidade", "image": "/images/geeka.png", "link": "/whatever" },
+    { "id": 2, "title": "Frontending", "image": "/images/frontending.png", "link": "/whatever"},
+    { "id": 3, "title": "Just Digital", "image": "/images/just-logo.png", "link": "/whatever"}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}

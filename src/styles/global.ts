@@ -15,6 +15,19 @@ export const GlobalStyle = createGlobalStyle`
     font-weight: 400;
   }
 
+  body {
+    background-color: #FFFFFF;
+
+    &.aboutme {
+      background-color: #000000;
+    }
+
+    &.noscroll {
+      max-height: 100vh;
+      overflow: hidden;
+    }
+  }
+
   a {
     color: inherit;
   }
